@@ -16,5 +16,9 @@ Headings in HTML.
     <h4>This is Heading 4</h4>
     <h5>This is Heading 5</h5>
     <h6>This is Heading 6</h6>
+     
+    <p>This is Paragraph Tag</p>
+    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Harum iusto voluptas ipsa dolore rem vel, iste provident deleniti quis veritatis. A architecto veniam porro autem. Odio, molestias repudiandae. Nemo molestias id totam voluptatum ipsa at eaque. Quidem, eligendi obcaecati doloribus, natus aliquid praesentium odit mollitia hic commodi molestiae officiis rerum.</p>
+ 
 </body>
 </html>
