@@ -1,0 +1,15 @@
+ <!DOCTYPE html>
+ <html lang="en">
+ <head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title> Image Tag</title>
+ </head>
+ <body>
+   <!--  <img> tag is used to add image -->
+   <!-- we define the source or address of image in src and if image is not render we can display a message to users
+      that what the image we used -->
+
+      <img src="shubh.jpg" alt="">
+ </body>
+ </html>
