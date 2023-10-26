@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> HTML History</title>
+</head>
+<body>
+    <h2 style="text-align: center;">History of the HTML </h2>
+    <table border="1px">
+        <thead>
+            <tr>
+                <th cellspacing="5px" cellpadding="5px">Year</th>
+                <th>Version</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1989</td>
+                <td>Tim Berners-Lee invented www</td>
+            </tr>
+            <tr>
+                <td>1991</td>
+                <td>Tim Berners-Lee invented HTML</td>
+            </tr>
+            <tr>
+                <td>1993</td>
+                <td>Dave Raggett drafted HTML+</td>
+            </tr>
+            <tr>
+                <td>1995</td>
+                <td>HTML workinng Group defined HTML 2.0</td>
+            </tr>
+            <tr>
+                <td>1997</td>
+                <td>W3C Recommendation: HTML 3.2</td>
+            </tr>
+            <tr>
+                <td>1999</td>
+                <td>W3C Recommendation: HTML 4. 01</td>
+            </tr>
+            <tr>
+                <td>2000</td>
+                <td>W3C Recommendation: XHTML 1.0</td>
+            </tr>
+            <tr>
+                <td>2008</td>
+                <td> WHATWG HTML5 First Public Draft</td>
+            </tr>
+            <tr>
+                <td>2012</td>
+                <td>WHATWG HTML5 Living Standard</td>
+            </tr>
+            <tr>
+                <td>2014</td>
+                <td>W3C Recommendation: HTML 5</td>
+            </tr>
+            <tr>
+                <td>2016</td>
+                <td>W3C Candidate Recommendation: HTML 5.1 </td>
+            </tr>
+            <tr>
+                <td>2017</td>
+                <td>W3C Recommendation: HTML 5.1 2nd Edition </td>
+            </tr>
+            <tr>
+                <td>2017</td>
+                <td>W3C Recommendation: HTML 5.2 </td>
+            </tr>
+        </tbody>
+
+    </table>
+</body>
+</html>
